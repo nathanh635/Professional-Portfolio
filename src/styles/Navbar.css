@@ -1,0 +1,21 @@
+.navbar {
+  background-color: #2B2C28;
+  height: 60px;
+}
+
+.navbar a {
+  color: #7DE2D1;
+  font-size: 1.3rem;
+  text-decoration: none;
+  margin: 5px;
+  line-height: 3;
+}
+
+.nav-item {
+  display: inline;
+  padding: 25px;
+}
+
+ul {
+  margin: 0px;
+}

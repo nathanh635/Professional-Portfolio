@@ -1,0 +1,27 @@
+.header {
+  background: #7DE2D1;
+  height: 250px;
+display: inline;
+padding-left: 50px;
+}
+
+.header h1 {
+  margin: 0;
+  padding-top: 75px;
+  padding-left: 50px;
+  text-align: center;
+  color: #2B2C28;
+  font-size: 3rem;
+  display: inline;
+}
+
+.profilephoto {
+display: inline;
+  border-radius: 100px;
+  border: solid 3px #2B2C28;
+}
+
+.header h3 {
+padding-left: 20px;
+  display: inline;
+}

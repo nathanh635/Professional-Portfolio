@@ -1,0 +1,36 @@
+input {
+    display: block;
+    margin: 15px;
+}
+
+div {
+    background-color: #7DE2D1;
+}
+
+.message-input {
+    height: 150px;
+    width: 500px;
+    
+}
+
+.email-input {
+    width: 500px;
+}
+
+.name-input {
+    width: 500px;
+}
+
+.message-button {
+    padding: 10px;
+    margin: 15px;
+    margin-left: 50px;
+}
+
+.contact-header {
+    padding: 15px;
+}
+
+label {
+    padding-left: 15px;
+}
