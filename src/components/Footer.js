@@ -8,7 +8,7 @@ function Footer(){
 <footer>
 <a href="https://github.com/nathanh635"> <i className="fa fa-github" ></i></a>
 <a href="https://www.linkedin.com/in/nathan-howes1/"><i className="fa fa-linkedin" ></i></a>
-<a href="#home"><i className="fa fa-folder-open"></i></a>
+<a href="#projects"><i className="fa fa-folder-open"></i></a>
 </footer>
   );
   };

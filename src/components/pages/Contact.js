@@ -5,7 +5,7 @@ function ContactForm(props) {
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
-  const warningBox = document.getElementsByClassName("warning")
+  const [error, setError] = useState(null);
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -29,24 +29,25 @@ function ContactForm(props) {
 
   const handleChange1 = (e) => {
 
-    if (e.target.value === null) {
-      warningBox.textContent = "An email is required."
-    }
-    if (!isValidEmail(e.target.value)) {
-      warningBox.textContent = "Your email is invalid."
+    if (e.target.value === "" || !isValidEmail(e.target.value)) {
+      setError("A valid email is required.");
+    } else {
+      setError(null);
     }
     setEmail(e.target.value);
-  };
+
+  }
 
   const handleChange2 = (e) => {
     setName(e.target.value);
-
   };
 
   const handleChange3 = (e) => {
 
-    if (e.target.value === null) {
-      warningBox.textContent = "A message is required."
+    if (e.target.value === "") {
+      setError("A message is required.");
+    } else {
+      setError(null);
     }
 
     setMessage(e.target.value);
@@ -84,7 +85,7 @@ function ContactForm(props) {
           onChange={handleChange3}
         ></textarea>
 
-        <p className = "warning"></p>
+      {error && <h4 style={{color: 'red'}}>{error}</h4>}
 
         <button className="message-button">Send message</button>
       </form>

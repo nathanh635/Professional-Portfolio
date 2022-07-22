@@ -1,6 +1,7 @@
 .projectBlock {
     display: flex;
     flex-direction: row;
+    margin: 25px;
 
 }
 
@@ -8,14 +9,8 @@
     width: 500px;
     border: solid 3px #2B2C28;
     display: inline;
-    padding: 20px;
 }
 
-.backdrop:hover >
-.projectImage {width: 700px;
-
+h2, h3, h4, p {
+    margin: 15px;
 }
-
-.projectName:hover + .projectImage { color: #7DE2D1; }
-    
-

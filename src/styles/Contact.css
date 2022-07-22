@@ -10,7 +10,8 @@ div {
 .message-input {
     height: 150px;
     width: 500px;
-    
+    display: block;
+    margin: 15px;
 }
 
 .email-input {
@@ -24,7 +25,6 @@ div {
 .message-button {
     padding: 10px;
     margin: 15px;
-    margin-left: 50px;
 }
 
 .contact-header {
@@ -33,4 +33,8 @@ div {
 
 label {
     padding-left: 15px;
+}
+
+textarea {
+
 }

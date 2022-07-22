@@ -19,3 +19,11 @@
 ul {
   margin: 0px;
 }
+
+.nav-link-active {
+font-weight:bolder;
+}
+
+.nav-link {
+font-weight: normal;
+}

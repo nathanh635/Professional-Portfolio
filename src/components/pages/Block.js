@@ -35,8 +35,9 @@ let projectList = projects.map((project) => {
     );
   
     return (<div className="projectBlock">
-         <div className="backdrop">
-      <img className="projectImage"src={project.source} alt={project.name}>{<Link target="_blank" href={project.href}></Link>}</img>
+
+      <a href={project.href} ><img className="projectImage"src={project.source} alt={project.name}></img></a>
+      <div className="box">
       <h3 className = "projectName">{project.name}</h3>
     <p>{project.description}</p>
     <ul>{techList}</ul>

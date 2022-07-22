@@ -8,11 +8,11 @@ import Projects from './pages/Projects';
 import Contact from './pages/Contact';
 
 export default function PortfolioContainer() {
-  const [currentPage, setCurrentPage] = useState('Home');
+  const [currentPage, setCurrentPage] = useState('About Me');
 
   // This method is checking to see what the value of `currentPage` is. Depending on the value of currentPage, we return the corresponding component to render.
   const renderPage = () => {
-    if (currentPage === 'Home') {
+    if (currentPage === 'About Me') {
       return <Home />;
     }
     if (currentPage === 'Resume') {
@@ -27,7 +27,7 @@ export default function PortfolioContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div>
+    <div className="full">
       <Header />
       {/* We are passing the currentPage from state and the function to update it */}
       <Navbar currentPage={currentPage} handlePageChange={handlePageChange} />
