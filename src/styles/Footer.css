@@ -1,7 +1,9 @@
 footer {
  background-color: #2B2C28;
  text-align: center;
-bottom: 0vh;
+ position: relative;
+ left: 0;
+ bottom: 0;
 }
 
 .fa {
