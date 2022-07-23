@@ -5,6 +5,10 @@
 
   The application is professional portfolio for myself put together using a one -page react application and is deployed to GitHub pages.
 
+  The application is built using ReactJS, and is a single page application. When you click the links at the top, it routes to the selected option, and the active page is highlighted. It shows six projects on the project page, and each image of a project links to the respective repository. If applicable, links to the deployed applications are also provided.
+
+  Note: I have plans to further refine the portfolio in the near future, but wanted to get the challenge submitted.
+
 ## Table of Contents
 
 - [Installation](#installation)

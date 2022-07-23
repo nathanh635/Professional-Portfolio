@@ -16,6 +16,7 @@ function Project() {
   return (
     <section className="section">
       <h2>Recent Projects</h2>
+      <p>Click on the images for a link to the GitHub repository.</p>
         <Block />
     </section>
   );
