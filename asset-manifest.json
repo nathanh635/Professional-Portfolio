@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Professional-Portfolio/static/css/main.1cd2554f.css",
+    "main.js": "/Professional-Portfolio/static/js/main.338b4502.js",
+    "static/media/profilephoto.JPG": "/Professional-Portfolio/static/media/profilephoto.d818a140e49acfe54d4e.JPG",
+    "static/media/screenshot2.PNG": "/Professional-Portfolio/static/media/screenshot2.9657d1b75ef95f7e3ddf.PNG",
+    "static/media/screenshot-homepage.PNG": "/Professional-Portfolio/static/media/screenshot-homepage.ea032cb928be72087d4a.PNG",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Professional-Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Professional-Portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Professional-Portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Professional-Portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Professional-Portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/project6screenshot.PNG": "/Professional-Portfolio/static/media/project6screenshot.0891f56d9cf35e7837a8.PNG",
+    "static/media/project5screenshot.PNG": "/Professional-Portfolio/static/media/project5screenshot.0a4a406df3565e8e1db8.PNG",
+    "static/media/project4screenshot.PNG": "/Professional-Portfolio/static/media/project4screenshot.33fc5e3227f28c2b0f86.PNG",
+    "static/media/JATEscreenshot.PNG": "/Professional-Portfolio/static/media/JATEscreenshot.d6c99ef6431c3af6759a.PNG",
+    "index.html": "/Professional-Portfolio/index.html",
+    "main.1cd2554f.css.map": "/Professional-Portfolio/static/css/main.1cd2554f.css.map",
+    "main.338b4502.js.map": "/Professional-Portfolio/static/js/main.338b4502.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cd2554f.css",
+    "static/js/main.338b4502.js"
+  ]
+}
