@@ -51,12 +51,12 @@
 
   Below is a screenshot of the tested application.
 
-![screenshot1](./assets/Screenshot1-splashpage.PNG)
-![screenshot2](./assets/view%20of%20indexedDB.PNG)
+![screenshot1](./src/components/assets/pscreenshot1.PNG)
+![screenshot2](./src/components/assets/pscreenshot2.PNG)
   
 ## Links
 
-  Repository: https://github.com/nathanh635/Social-Network
+  Repository: https://github.com/nathanh635/Professional-Portfolio
   
-  Heroku Deployment: https://radiant-temple-37153.herokuapp.com/
+  Deployed Page: https://nathanh635.github.io/Professional-Portfolio/
 
