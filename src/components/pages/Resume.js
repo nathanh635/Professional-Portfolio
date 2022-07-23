@@ -1,9 +1,10 @@
 import React from 'react';
+import resume from '../assets/Nathan-Howes-June-2022.pdf'
 
 function Resume() {
   return (
     <div>
-        <h2>Click here to download my resume.</h2>
+        <h2>Click <a href= {resume} download>here</a> to download my resume.</h2>
         <h3>Proficient in:</h3>
         <p>Front End technologies:</p>
         <ul>
