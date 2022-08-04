@@ -5,12 +5,22 @@ import JATESS from '../assets/JATEscreenshot.PNG';
 import project4SS from '../assets/project4screenshot.PNG';
 import project5SS from '../assets/project5screenshot.PNG';
 import project6SS from '../assets/project6screenshot.PNG';
+import geoCatch from '../assets/Geocatch.PNG';
 
 
 //list of projects as an array of objects to use the map function below to add them to the react parent component
 const projects = [
   {
     id:1,
+    name: "GeoCatch",
+    description: "An application for users to play a game of catch with other users, based on photo uploads and landmarks. Can you find where the photos were taken?",
+    techUsed: ["ReactJS, MERN Stack, MongoDB Atlas, MapBox, ExifJS"],
+    source: rideCompareSS,
+    hrefRepo: "https://github.com/tdickson96/GeoCatch",
+    hrefDep: "https://geocatch.herokuapp.com/"
+    },
+  {
+    id:2,
     name: "RideCompare",
     description: "An application designed to save users money by using APIs to compare the costs of ridesharing companies Lyft and Uber.",
     techUsed: ["HTML", "CSS", "Javascript", "WebAPIs"],
@@ -19,7 +29,7 @@ const projects = [
     hrefDep: "https://rgarrettlee.github.io/Ride-Compare/"
     },
     {
-      id:2,
+      id:3,
       name: "PlantOverflow",
       description: "A community site where people with gardening questions can come together and give their green thumbs a workout.",
       techUsed: ["Handlebars", "CSS", "Javascript", "MySQL", "Sequelize"],
@@ -28,7 +38,7 @@ const projects = [
       hrefDep: "https://beautiful-glacier-bay-92549.herokuapp.com/"
       },
       {
-        id:3,
+        id:4,
         name: "Text Editor",
         description: "A simple text editor, built as a progressive web application (PWA) which contains service workers and a manifest to allow for installation.",
         techUsed: ["Handlebars", "CSS", "Progressive Web Applications", "Service Workers", "IndexedDB"],
@@ -37,7 +47,7 @@ const projects = [
         hrefDep: "https://radiant-temple-37153.herokuapp.com/"
         },
         {
-          id:4,
+          id:5,
           name: "Tech Blog",
           description: "A simple text editor, built as a progressive web application (PWA) which contains service workers and a manifest to allow for installation.",
           techUsed: ["Handlebars", "CSS", "Model-View-Controller Structure", "MySQL", "Sequelize"],
@@ -46,21 +56,14 @@ const projects = [
           hrefDep: "https://pure-island-12653.herokuapp.com/"
           },
           {
-            id:5,
+            id:6,
             name: "Team Profile Builder",
             description: "A team profile builder command line application which allows the user to input a number of employee roles and information and creates a team profile.",
             techUsed: ["NodeJS", "CSS", "HTML", "Test Driven Development"],
             source: project5SS,
             hrefRepo: "https://github.com/nathanh635/TeamProfileGenerator"
-            },
-            {
-              id:6,
-              name: "E-Commerce Database",
-              description: "A back-end for an E-Commerce platform designed to organize stock and prices on goods..",
-              techUsed: ["APIs", "MySQL", "Sequelize"],
-              source: project6SS,
-              hrefRepo: "https://github.com/nathanh635/Text-Editor"
-              }
+            }
+
 ]
 
 
