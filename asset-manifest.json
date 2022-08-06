@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Professional-Portfolio/static/css/main.d27b1d7f.css",
-    "main.js": "/Professional-Portfolio/static/js/main.7946054a.js",
-    "static/media/profilephoto.JPG": "/Professional-Portfolio/static/media/profilephoto.d818a140e49acfe54d4e.JPG",
-    "static/media/screenshot2.PNG": "/Professional-Portfolio/static/media/screenshot2.9657d1b75ef95f7e3ddf.PNG",
-    "static/media/screenshot-homepage.PNG": "/Professional-Portfolio/static/media/screenshot-homepage.ea032cb928be72087d4a.PNG",
+    "main.css": "/Professional-Portfolio/static/css/main.cf7b9fc3.css",
+    "main.js": "/Professional-Portfolio/static/js/main.f54fa19c.js",
+    "static/media/profilephoto.JPG": "/Professional-Portfolio/static/media/profilephoto.f82487dd8993e5f7ec52.JPG",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Professional-Portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/Geocatch.PNG": "/Professional-Portfolio/static/media/Geocatch.67fb78e0fd5bc812a1a5.PNG",
+    "static/media/screenshot2.PNG": "/Professional-Portfolio/static/media/screenshot2.a9c766ec4fb40965d075.PNG",
+    "static/media/screenshot-homepage.PNG": "/Professional-Portfolio/static/media/screenshot-homepage.aa47426b56282c5e6cbc.PNG",
     "static/media/fontawesome-webfont.eot": "/Professional-Portfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Professional-Portfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/Nathan-Howes-June-2022.pdf": "/Professional-Portfolio/static/media/Nathan-Howes-June-2022.3929f2773be0e4ba961a.pdf",
+    "static/media/Geocatch.PNG": "/Professional-Portfolio/static/media/Geocatch.eb7530de9143d03d15ec.PNG",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/Professional-Portfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Professional-Portfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/project6screenshot.PNG": "/Professional-Portfolio/static/media/project6screenshot.0891f56d9cf35e7837a8.PNG",
-    "static/media/project5screenshot.PNG": "/Professional-Portfolio/static/media/project5screenshot.0a4a406df3565e8e1db8.PNG",
-    "static/media/project4screenshot.PNG": "/Professional-Portfolio/static/media/project4screenshot.33fc5e3227f28c2b0f86.PNG",
-    "static/media/JATEscreenshot.PNG": "/Professional-Portfolio/static/media/JATEscreenshot.d6c99ef6431c3af6759a.PNG",
+    "static/media/project6screenshot.PNG": "/Professional-Portfolio/static/media/project6screenshot.4bbe11b1920e2db35911.PNG",
+    "static/media/project5screenshot.PNG": "/Professional-Portfolio/static/media/project5screenshot.bdd80996d928ab996506.PNG",
+    "static/media/project4screenshot.PNG": "/Professional-Portfolio/static/media/project4screenshot.0881ef5a94cbb9e98b1f.PNG",
+    "static/media/JATEscreenshot.PNG": "/Professional-Portfolio/static/media/JATEscreenshot.9f2bde0e6607bd697f2b.PNG",
     "index.html": "/Professional-Portfolio/index.html",
-    "main.d27b1d7f.css.map": "/Professional-Portfolio/static/css/main.d27b1d7f.css.map",
-    "main.7946054a.js.map": "/Professional-Portfolio/static/js/main.7946054a.js.map"
+    "main.cf7b9fc3.css.map": "/Professional-Portfolio/static/css/main.cf7b9fc3.css.map",
+    "main.f54fa19c.js.map": "/Professional-Portfolio/static/js/main.f54fa19c.js.map"
   },
   "entrypoints": [
-    "static/css/main.d27b1d7f.css",
-    "static/js/main.7946054a.js"
+    "static/css/main.cf7b9fc3.css",
+    "static/js/main.f54fa19c.js"
   ]
 }
