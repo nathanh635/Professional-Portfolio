@@ -15,9 +15,9 @@ const projects = [
     name: "GeoCatch",
     description: "An application for users to play a game of catch with other users, based on photo uploads and landmarks. Can you find where the photos were taken?",
     techUsed: ["ReactJS, MERN Stack, MongoDB Atlas, MapBox, ExifJS"],
-    source: rideCompareSS,
+    source: geoCatch,
     hrefRepo: "https://github.com/tdickson96/GeoCatch",
-    hrefDep: "https://geocatch.herokuapp.com/"
+    hrefDep: "https://geocatch1-0.herokuapp.com/"
     },
   {
     id:2,

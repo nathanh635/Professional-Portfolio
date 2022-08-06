@@ -18,3 +18,36 @@ h2, h3, h4, p {
 p {
     font-size: 18px;
 }
+
+
+/*Page displays as one column at 768px or smaller   */
+@media (max-width: 1240px) {
+    .projectBlock {
+        display: flex;
+        flex-direction: column;
+        margin: 25px;
+    
+    }
+
+    .profilephoto {
+        flex-shrink: 1;
+
+  }
+
+  .header {
+    display: flex;
+
+  }
+
+  .headerStuff {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+  }
+
+  .header h1 {
+    padding-left: 35px;
+  }
+
+}
